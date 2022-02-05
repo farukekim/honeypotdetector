@@ -6,6 +6,7 @@ Rugpulls and Honeypots. What they are and how you can avoid them.
 Thousands of new coins appear every day. Many of them are what you would call shitcoins. But almost equally as many others are simply new projects that have a real purpose and are just getting started. After all, every project has to start somewhere. Pancakeswap for example started on the Binance Smart Chain and is now one of the largest exchanges.
 And then there are the real scam coins, which is what you usually read about when people lose all their money. Yes, you can lose money the "natural" way if the project simply doesn't take off as expected, but the vast majority of losses are caused by scams. Since we deal with this on a daily basis, We thought it would be good to develop a tool to help you guys who may be buying these smaller coins detect those scams and hopefully prevent you from losing your money.
 The vast majority of scams can be divided into either Rugpulls or Honeypots. So let's start with..
+
 Rugpulls
 
 Why are they called rugpulls? 
